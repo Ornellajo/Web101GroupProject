@@ -1,1 +1,33 @@
-EMPTY
+#links {
+	
+	background-color: #afaff0;
+	font-size: 2em;
+	text-align: center;
+	padding: 2vh;
+}
+
+#links a {
+	margin: 0 1vw;
+}
+
+.content {
+	width: 60%;
+	margin: 1vh auto;
+	padding: 1vw;
+	border: dashed 10px;
+	border-radius: 10px;
+}
+
+h1 {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	font-size: 1.3em;
+}
