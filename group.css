@@ -13,9 +13,10 @@
 .content {
 	width: 60%;
 	margin: 1vh auto;
-	padding: 1vw;
+	padding: 4vw;
 	border: dashed 10px;
 	border-radius: 10px;
+	text-align: justify;
 }
 
 h1 {
@@ -26,6 +27,7 @@ h1 {
 
 h2 {
 	text-align: center;
+	font-size: 2em;
 }
 
 p {
